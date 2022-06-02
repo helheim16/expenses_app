@@ -22,4 +22,4 @@ Estilos
 
 DONE:
 
-- [ x ] Crear Archivos
+- [x] Crear Archivos
